@@ -2,4 +2,4 @@
 
 ## Getting Started
 
-Ui for stock prediction app.
+UI for stock prediction app.
